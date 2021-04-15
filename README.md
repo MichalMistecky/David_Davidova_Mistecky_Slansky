@@ -1,1 +1,1 @@
-# David_Davidova_Mistecky_Slansky
+This is an online repository of two sets of articles taken from the Rudé právo journal. The articles were used for collocation analyses elaborated in the the paper "A Two-Man Show: Stylometric Analysis of Personal Names in Rudolf Slánský’s Staged Trial Newspaper Reports", authored by Jaroslav David, Jana Davidová Glogarová, and Michal Místecký. The researchers work at the Department of Czech Language, Faculty of Arts, University of Ostrava. The Rudé právo journal is open source. 
